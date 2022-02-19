@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "588199467866",
+    "project_id": "competitive-f65ed",
+    "storage_bucket": "competitive-f65ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588199467866:android:f07eadb08277ac64ac7163",
+        "android_client_info": {
+          "package_name": "com.milistep.competitive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588199467866-dus77amb05ik9cs8soeun8lukr0cboi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milistep.competitive",
+            "certificate_hash": "d9e959fa7a46724e691f96188cf9ae823a5d2f03"
+          }
+        },
+        {
+          "client_id": "588199467866-ejfjnrcm1p3ac065ippfboo0c8318h3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7tDxdNgnpf23UExprH0PKIOJhO-uzc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588199467866-ejfjnrcm1p3ac065ippfboo0c8318h3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588199467866:android:3cefcee85e20d89dac7163",
+        "android_client_info": {
+          "package_name": "com.milistep.competitiveTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588199467866-ejfjnrcm1p3ac065ippfboo0c8318h3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7tDxdNgnpf23UExprH0PKIOJhO-uzc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588199467866-ejfjnrcm1p3ac065ippfboo0c8318h3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588199467866:android:60cbb62f6febeb76ac7163",
+        "android_client_info": {
+          "package_name": "com.milistep.competitivetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588199467866-ejfjnrcm1p3ac065ippfboo0c8318h3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7tDxdNgnpf23UExprH0PKIOJhO-uzc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588199467866-ejfjnrcm1p3ac065ippfboo0c8318h3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
